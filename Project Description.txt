@@ -1,0 +1,7 @@
+This project is a team project that participated in the PyeongChang Winter Olympic Competition.
+A specific description of the project
+C: \ Users \ lenovo \ Pyeongchang_Competition \ wink_pyeongchang \ minutes
+or
+C: \ Users \ lenovo \ Pyeongchang_Competition \ wink_pyeongchang \
+Check in
+A brief description of this project aims to make it easier for people who can easily be found in places like the Olympic Games to find them easily. Developed using Raspberry pie and smart phone application.
